@@ -1,7 +1,8 @@
 .images {
     align-content: space-between;
     flex-direction: row;
-    height: 10lvh;
+    display: flex;
+    height: 40lvh;
 }
 
 
