@@ -1,7 +1,5 @@
 body {
     font-family: Arial;
-    display: flex;
-    flex-direction: column;
     margin: 0;
 }
 h2 {
@@ -24,9 +22,39 @@ main {
     flex-direction: column;
 }
 
+footer {
+  bottom: 0;
+  background-color: rgb(0, 64, 94);
+  position: fixed;
+  width: 100%;
+  align-items: center;
+  padding: 4lvh;
+}
+
+.container {
+    border: 2px solid #333;
+    margin-bottom: 30px;
+    padding: 10px;
+    display: flex;
+    margin: 1lvh;
+    justify-content: space-between;
+}
+
+.box {
+    background: #3498db;
+    color: white;
+    padding: 20px;
+    margin: 5px;
+    font-size: 20px;
+    max-width: 40lvh;
+}
+
 .carouselle {
     flex-direction: row;
     display: flex;
+    background-color: gray;
+    padding: 1lvh;
+    background-image: url(https://images7.alphacoders.com/326/thumb-1920-326099.jpg);
 }
 
 .group {
@@ -47,27 +75,3 @@ main {
       transform: translateX(-100%);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
