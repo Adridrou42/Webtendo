@@ -10,6 +10,7 @@ nav {
     display: flex;
     flex-direction: row;
     height: 7lvh;
+    gap: 4lvh
 }
 
 .carouselle {
@@ -35,6 +36,7 @@ nav {
       transform: translateX(-100%);
     }
 }
+
 
 
 
