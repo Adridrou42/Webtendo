@@ -1,7 +1,7 @@
 nav {
     display: flex;
     flex-direction: row;
-    height: 20lvh;
+    height: 7lvh;
 }
 
 .carouselle {
@@ -27,6 +27,7 @@ nav {
       transform: translateX(-100%);
     }
 }
+
 
 
 
