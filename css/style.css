@@ -52,7 +52,6 @@ footer {
 .carouselle {
     flex-direction: row;
     display: flex;
-    background-color: gray;
     padding: 1lvh;
     background-image: url(https://images7.alphacoders.com/326/thumb-1920-326099.jpg);
 }
@@ -75,3 +74,4 @@ footer {
       transform: translateX(-100%);
     }
 }
+
