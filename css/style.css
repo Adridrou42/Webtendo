@@ -1,5 +1,6 @@
 body {
     font-family: Arial;
+    display: flex;
 }
 h1 {
     font-size: 6lvh;
@@ -36,6 +37,7 @@ nav {
       transform: translateX(-100%);
     }
 }
+
 
 
 
