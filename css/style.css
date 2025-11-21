@@ -1,6 +1,7 @@
 nav {
     display: flex;
     flex-direction: row;
+    width: 20lvh;
 }
 
 .carouselle {
@@ -26,6 +27,7 @@ nav {
       transform: translateX(-100%);
     }
 }
+
 
 
 
