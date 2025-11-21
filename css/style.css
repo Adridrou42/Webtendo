@@ -14,7 +14,7 @@ nav {
     height: 7lvh;
     gap: 4lvh;
     align-items: center;
-    margin-bottom: 2lvh;
+    margin-bottom: 1lvh;
 }
 
 main {
@@ -45,6 +45,7 @@ main {
       transform: translateX(-100%);
     }
 }
+
 
 
 
