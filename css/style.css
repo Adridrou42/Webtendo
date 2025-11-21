@@ -1,3 +1,8 @@
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
 .carouselle {
     flex-direction: row;
     display: flex;
@@ -21,6 +26,7 @@
       transform: translateX(-100%);
     }
 }
+
 
 
 
