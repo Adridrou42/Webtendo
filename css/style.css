@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
 }
-h1 {
+h2 {
     font-size: 6lvh;
     color: blue;
 }
@@ -12,7 +12,8 @@ nav {
     display: flex;
     flex-direction: row;
     height: 7lvh;
-    gap: 4lvh
+    gap: 4lvh;
+    align-items: center;
 }
 
 main {
@@ -43,6 +44,7 @@ main {
       transform: translateX(-100%);
     }
 }
+
 
 
 
