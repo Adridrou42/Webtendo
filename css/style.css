@@ -23,12 +23,21 @@ main {
 }
 
 footer {
-  bottom: 0;
-  background-color: rgb(0, 64, 94);
-  position: fixed;
-  width: 100%;
-  align-items: center;
-  padding: 4lvh;
+    bottom: 0;
+    background-color: rgb(0, 64, 94);
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    padding: 4lvh;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration:underline;
+    color:#ffffff;
 }
 
 .container {
@@ -74,4 +83,5 @@ footer {
       transform: translateX(-100%);
     }
 }
+
 
