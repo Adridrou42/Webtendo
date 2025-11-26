@@ -46,7 +46,7 @@ a:hover {
     display: flex;
     margin: 1lvh;
     justify-content: space-between;
-    box-shadow: 0 1 0 1;
+    box-shadow: 0 1lvh 0 1lvh;
 }
 
 .box {
@@ -83,6 +83,7 @@ a:hover {
       transform: translateX(-100%);
     }
 }
+
 
 
 
