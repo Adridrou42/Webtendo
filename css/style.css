@@ -20,6 +20,7 @@ nav {
 main {
     display: flex;
     flex-direction: column;
+    margin-bottom: 10lvh;
 }
 
 footer {
@@ -83,6 +84,7 @@ a:hover {
       transform: translateX(-100%);
     }
 }
+
 
 
 
