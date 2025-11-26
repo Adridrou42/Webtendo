@@ -55,7 +55,7 @@ a:hover {
     margin: 5px;
     font-size: 20px;
     max-width: 40lvh;
-    box-shadow: 5px 5px 3px #333;
+    box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
 }
 
 .carouselle {
@@ -83,6 +83,7 @@ a:hover {
       transform: translateX(-100%);
     }
 }
+
 
 
 
