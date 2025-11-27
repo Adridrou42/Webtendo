@@ -89,7 +89,12 @@ a:hover {
     }
 }
 
-
+.mini_sayaka{
+    position: absolute;
+    margin-top: 25lvh;
+    margin-left: 80lvw;
+    width: 20lvh;
+}
 
 
 
