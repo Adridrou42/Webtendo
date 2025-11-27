@@ -33,7 +33,11 @@ footer {
     width: 100%;
     align-items: center;
     padding: 4lvh;
+}
+
+.linkFooter {
     gap: 10lvh;
+    display: flex;
 }
 
 a {
@@ -103,6 +107,7 @@ a:hover {
 ::-webkit-scrollbar {
   height: 0;
 }
+
 
 
 
