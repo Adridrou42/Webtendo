@@ -33,6 +33,7 @@ footer {
     width: 100%;
     align-items: center;
     padding: 4lvh;
+    gap: 2lvh;
 }
 
 a {
@@ -97,6 +98,7 @@ a:hover {
 ::-webkit-scrollbar {
   height: 0;
 }
+
 
 
 
