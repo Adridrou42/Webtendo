@@ -64,6 +64,7 @@ a:hover {
     display: flex;
     padding: 1lvh;
     background-image: url(https://images7.alphacoders.com/326/thumb-1920-326099.jpg);
+    overflow: hidden;
 }
 
 .group {
@@ -88,6 +89,7 @@ a:hover {
 ::-webkit-scrollbar {
     display: none;
 }
+
 
 
 
