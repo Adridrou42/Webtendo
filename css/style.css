@@ -7,7 +7,7 @@ body::-webkit-scrollbar{
     display: none;
 }
 h2 {
-    font-size: 6lvh;
+    font-size: 10%;
     color: blue;
 }
 
@@ -101,12 +101,6 @@ a:hover {
     width: 20lvh;
 }
 
-
-
-
-::-webkit-scrollbar {
-  height: 0;
-}
 
 
 
