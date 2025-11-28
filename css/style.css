@@ -100,6 +100,34 @@ a:hover {
     margin-left: 80lvw;
     width: 20lvh;
 }
+/* Smartphone */
+@media (max-width: 800px) {
+    nav {
+        display: flex;
+        flex-direction: row;
+        height: 10lvh;
+        gap: 1lvh;
+        align-items: center;
+        background: linear-gradient(grey , white);
+        padding: 1lvh;
+        width: 100%;
+    }
+    h2 {
+        font-size: 2.7lvh;
+        color: blue;
+    }
+    .box {
+        background: #3498db;
+        color: white;
+        padding: 20px;
+        margin: 5px;
+        font-size: 2lvh;
+        max-width: 40lvh;
+        box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
+        overflow: hidden;
+    }
+}
+
 
 
 
