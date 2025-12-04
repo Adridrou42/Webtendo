@@ -126,6 +126,10 @@ a:hover {
         box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
         overflow: hidden;
     }
+    .container {
+        flex-direction: column;
+        align-content: center;
+    }
 }
 
 
