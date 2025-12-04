@@ -118,6 +118,7 @@ article{
 .titre_avis{
     background-color: yellowgreen;
     font-size: 1.5lvh;
+    padding-left: 0.5dvh;
 }
 
 .contenu_avis{
