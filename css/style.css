@@ -100,6 +100,30 @@ a:hover {
     margin-left: 80lvw;
     width: 20lvh;
 }
+
+.avis{
+    align-items: center;
+    display: flex;
+}
+
+article{
+    background-color: #3498db;
+    box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
+    margin: 0.5dvh;
+    font-size: 2lvh;
+    width: 95dvw;
+    max-width: 150lvh;
+}
+
+.titre_avis{
+    background-color: yellowgreen;
+    font-size: 1.5lvh;
+}
+
+.contenu_avis{
+    margin: 0.5dvh;
+}
+
 /* Smartphone */
 @media (max-width: 800px) {
     nav {
