@@ -110,22 +110,23 @@ article{
     background-color: #3498db;
     box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
     margin: 0.5dvh;
-    font-size: 2lvh;
+    font-size: 3lvh;
     width: 95dvw;
     max-width: 150lvh;
 }
 
 .titre_avis{
+    display: flex;
     background-color: yellowgreen;
-    font-size: 1.5lvh;
-    padding-left: 0.5dvh;
+    font-size: 2.5lvh;
 }
 
 .contenu_avis{
     margin: 0.5dvh;
 }
 .photo_profile{
-    height: 2dvh;
+    height: 3dvh;
+    
 }
 
 
