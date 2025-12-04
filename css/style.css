@@ -124,6 +124,10 @@ article{
 .contenu_avis{
     margin: 0.5dvh;
 }
+.photo_profile{
+    height: 2dvh;
+}
+
 
 /* Smartphone */
 @media (max-width: 800px) {
