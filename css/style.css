@@ -104,6 +104,8 @@ a:hover {
 .avis{
     align-items: center;
     display: flex;
+    margin-top: 5dvh;
+    margin-bottom: 7dvh;
 }
 
 article{
@@ -160,6 +162,10 @@ article{
         flex-direction: column;
         align-content: center;
     }
+    .avis{
+    margin-top: 2dvh;
+    margin-bottom: 12dvh;
+}
 }
 
 
