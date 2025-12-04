@@ -111,7 +111,7 @@ a:hover {
 article{
     background-color: #3498db;
     box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
-    margin: 0.5dvh;
+    margin: 1dvh;
     font-size: 3lvh;
     width: 95dvw;
     max-width: 150lvh;
