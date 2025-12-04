@@ -125,6 +125,7 @@ article{
 
 .contenu_avis{
     margin: 0.5dvh;
+    text-align: justify;
 }
 .photo_profile{
     height: 3dvh;
