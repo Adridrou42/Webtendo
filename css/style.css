@@ -124,7 +124,8 @@ article{
 
 .titre_avis{
     display: flex;
-    background-color: yellowgreen;
+    background-color: #5b02ff;
+    background: linear-gradient(#5b02ff,#1d006d3d);
     font-size: 2lvh;
 }
 
