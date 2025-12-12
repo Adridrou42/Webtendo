@@ -1,5 +1,10 @@
+@font-face{
+    font-family: "Texte";
+    src : url("../police/sunlight_dreams.otf") format("opentype"),
+}
+
 body {
-    font-family: Arial;
+    font-family: "Texte";
     margin: 0;
     scrollbar-width: none;
 }
@@ -54,14 +59,14 @@ a:hover {
     padding: 10px;
     display: flex;
     margin: 1lvh;
-    justify-content: space-between;
+    justify-content:center;
 }
 
 .box {
     background: #3498db;
     color: white;
     padding: 20px;
-    margin: 5px;
+    margin-left: 2lvh;
     font-size: 20px;
     max-width: 40lvh;
     box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
@@ -111,16 +116,17 @@ a:hover {
 article{
     background-color: #3498db;
     box-shadow: 0.5lvh 0.5lvh 0.4lvh #333;
-    margin: 0.5dvh;
-    font-size: 3lvh;
+    margin: 1dvh;
+    font-size: 2lvh;
     width: 95dvw;
     max-width: 150lvh;
 }
 
 .titre_avis{
     display: flex;
-    background-color: yellowgreen;
-    font-size: 2.5lvh;
+    background-color: #5b02ff;
+    background: linear-gradient(#5b02ff,#1d006d3d);
+    font-size: 2lvh;
 }
 
 .contenu_avis{
@@ -128,7 +134,7 @@ article{
     text-align: justify;
 }
 .photo_profile{
-    height: 3dvh;
+    height: 2.5dvh;
     margin-right: 0.7dvh;
 }
 
